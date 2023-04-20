@@ -13,6 +13,8 @@
   "categories": [
     "Themes"
   ],
+  "icon": "icon.png",
+  "license": "MIT",
   "contributes": {
     "themes": [
       {
