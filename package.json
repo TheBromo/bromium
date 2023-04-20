@@ -2,7 +2,7 @@
   "name": "bromium",
   "displayName": "bromium",
   "description": "The Bromo's color theme inspired by Radium",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.77.0"
   },
