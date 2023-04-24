@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	bromium "github.com/thebromo/bromium"
+	bromium "github.com/thebromo/bromium/go-palette"
 	"github.com/charmbracelet/lipgloss"
 )
 
