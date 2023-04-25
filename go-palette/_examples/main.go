@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	bromium "github.com/thebromo/bromium/go-palette"
 	"github.com/charmbracelet/lipgloss"
+	bromium "github.com/thebromo/bromium"
 )
 
 func main() {
