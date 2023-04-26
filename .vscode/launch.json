@@ -6,7 +6,7 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Extension",
+            "name": "Extension Theme",
             "type": "extensionHost",
             "request": "launch",
             "args": [
@@ -14,7 +14,7 @@
             ]
         },
         {
-            "name": "Extension",
+            "name": "Extension Icon",
             "type": "extensionHost",
             "request": "launch",
             "args": [

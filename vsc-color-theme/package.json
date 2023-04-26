@@ -3,6 +3,17 @@
   "displayName": "Bromium",
   "description": "Radioactive color theme inspired by Radium from NvChad (https://github.com/NvChad/base46)",
   "version": "0.0.8",
+  "author": "TheBromo",
+  "keywords": [
+    "bromium",
+    "theme",
+    "neon",
+    "atomic",
+    "vscode",
+    "vscode-theme",
+    "vscode-icons",
+    "vscode-extension"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },

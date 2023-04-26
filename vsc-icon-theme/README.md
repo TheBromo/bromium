@@ -1,0 +1,4 @@
+# Bromium Icon Theme  ☢️
+
+Inspired by the [NVChad Radium colors](https://github.com/NvChad/base46) 
+And svg's used from [Catppuccin](https://github.com/catppuccin/vscode-icons)
