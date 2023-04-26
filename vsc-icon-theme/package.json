@@ -1,7 +1,7 @@
 {
-  "name": "bromium",
-  "displayName": "Bromium",
-  "description": "Radioactive color theme inspired by Radium from NvChad (https://github.com/NvChad/base46)",
+  "name": "bromium-icons",
+  "displayName": "Bromium Icons",
+  "description": "Radioactive icon theme inspired by Radium from NvChad (https://github.com/NvChad/base46) and Catpuccin",
   "author": "TheBromo",
   "keywords": [
     "bromium",
@@ -13,7 +13,7 @@
     "vscode-icons",
     "vscode-extension"
   ],
-  "version": "0.0.8",
+  "version": "0.0.9",
   "engines": {
     "vscode": "^1.77.0"
   },
