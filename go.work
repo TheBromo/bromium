@@ -1,0 +1,5 @@
+go 1.20
+
+use ./vsc-color-theme/template
+
+//replace github.com/thebromo/bromium =>  ./vsc-color-theme/template
