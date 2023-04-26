@@ -24,9 +24,5 @@
         "path": "themes/theme.json"
       }
     ]
-  },
-  "scripts": {
-    "package": "vsce package --no-dependencies -o dist",
-    "release": "bumpp -t \"v%s\" -c \"chore: release v\""
   }
 }

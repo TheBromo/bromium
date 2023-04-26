@@ -38,7 +38,7 @@ func main() {
 			}
 
 			//save file
-			f, err := os.Create("./../../themes/" + v.Name())
+			f, err := os.Create("./../../themes/icons/" + v.Name())
 
 			if err != nil {
 				panic(err)
