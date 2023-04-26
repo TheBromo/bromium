@@ -3,6 +3,6 @@
 Inspired by the [NVChad Radium theme](https://github.com/NvChad/base46)
 
 ## Screenshots
-![](./screenshot/go.png)
-![](./screenshot/java.png)
-![](./screenshot/rust.png)
+![](./screenshot/go_medium.png)
+![](./screenshot/java_medium.png)
+![](./screenshot/rust_medium.png)
