@@ -6,12 +6,12 @@ Corresoponing Icon theme is found [here](https://marketplace.visualstudio.com/it
 
 
 ## Screenshots
-![](./screenshot/go_medium.png)
-![](./screenshot/java_medium.png)
-![](./screenshot/rust_medium.png)
+![](./screenshot/gomedium.png)
+![](./screenshot/javamedium.png)
+![](./screenshot/rustmedium.png)
 
 
 ## Editor colors
-![](./screenshot/code_go.png)
-![](./screenshot/code_rust.png)
-![](./screenshot/code_java.png)
+![](./screenshot/codego.png)
+![](./screenshot/coderust.png)
+![](./screenshot/codejava.png)
