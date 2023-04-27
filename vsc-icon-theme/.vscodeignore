@@ -1,7 +1,7 @@
 .github/
 .vscode/
 assets/
-icons/
+template/
 node_modules/
 scripts/
 src/
