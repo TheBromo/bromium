@@ -5,4 +5,4 @@ And svg's used from [Catppuccin](https://github.com/catppuccin/vscode-icons)
 
 Correpsonding theme found [here](https://marketplace.visualstudio.com/items?itemName=TheBromo.bromium)
 
-![](./screenshots/explorer.png)
+![](https://raw.githubusercontent.com/TheBromo/bromium/main/vsc-icon-theme/screenshots/explorer.png)
