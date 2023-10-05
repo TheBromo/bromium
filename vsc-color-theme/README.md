@@ -15,3 +15,7 @@ Corresoponing Icon theme is found [here](https://marketplace.visualstudio.com/it
 ![](https://raw.githubusercontent.com/TheBromo/bromium/main/vsc-color-theme/screenshot/codego.png)
 ![](https://raw.githubusercontent.com/TheBromo/bromium/main/vsc-color-theme/screenshot/coderust.png)
 ![](https://raw.githubusercontent.com/TheBromo/bromium/main/vsc-color-theme/screenshot/codejava.png)
+
+Alternate Versions:
+
+[Bromium by Lucian](https://marketplace.visualstudio.com/items?itemName=Lucian.bromium-lucian) 

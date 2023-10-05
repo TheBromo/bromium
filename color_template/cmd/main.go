@@ -28,7 +28,7 @@ func main() {
 	}
 
 	//save file
-	f, err := os.Create("./../themes/bromium-color-theme.json.generated")
+	f, err := os.Create("./../bromium-color-theme.json.generated")
 
 	if err != nil {
 		panic(err)
