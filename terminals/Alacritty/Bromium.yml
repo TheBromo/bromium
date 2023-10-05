@@ -1,0 +1,40 @@
+# Themer My Color Set
+
+schemes:
+  themer-my-color-set-dark: &dark
+    primary:
+      background: "#101317"
+      foreground: "#B8B8BA"
+    cursor:
+      text: "#101317"
+      cursor: "#9A93E1"
+    selection:
+      text: "#101317"
+      background: "#5FB0FC"
+    normal:
+      black: "#484A4D"
+      red: "#E87979"
+      green: "#37D99E"
+      yellow: "#E5D487"
+      blue: "#5FB0FC"
+      magenta: "#C397D8"
+      cyan: "#87BDEC"
+      white: "#B8B8BA"
+    bright:
+      black: "#646668"
+      red: "#E48B8B"
+      green: "#56D8A9"
+      yellow: "#E2D497"
+      blue: "#76B7F4"
+      magenta: "#C6A3D7"
+      cyan: "#96C2E7"
+      white: "#D4D4D5"
+    dim:
+      black: "#2C2F32"
+      red: "#BD6565"
+      green: "#2FB183"
+      yellow: "#BAAD71"
+      blue: "#4F91CE"
+      magenta: "#9F7DB1"
+      cyan: "#6F9BC1"
+      white: "#9C9D9F"
