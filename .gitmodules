@@ -1,0 +1,12 @@
+[submodule "bromium.vscode"]
+	path = bromium.vscode
+	url = https://github.com/TheBromo/bromium.vscode.git
+[submodule "bromium.alacritty"]
+	path = bromium.alacritty
+	url = https://github.com/TheBromo/bromium.alacritty.git
+[submodule "bromium.windows_terminal"]
+	path = bromium.windows_terminal
+	url = https://github.com/TheBromo/bromium.windows_terminal.git
+[submodule "bromium.nvim"]
+	path = bromium.nvim
+	url = https://github.com/TheBromo/bromium.nvim.git
